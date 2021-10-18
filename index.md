@@ -21,5 +21,5 @@ Analytical Thinking <br>
 
 **GitProfile** 
 
-[https://github.com/BiancaDinut](https://github.com/BiancaDinut):grinning:<br>
+[https://github.com/BiancaDinut](https://github.com/BiancaDinut)<br>
 ![img](/img.png)
