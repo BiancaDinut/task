@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Bianca Dinut
 
-You can use the [editor on GitHub](https://github.com/BiancaDinut/task/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a former student of the University of Craiova,
+Faculty of Science, Department of
+Computer science and current master's student at the University
+Bucharest Polytechnic, Faculty of Automatics and
+Computers, Management Department in
+Information technology. My goal is to put
+in practice, the basis learned in college, but also to develop as much as possible, both skills
+practical as well as personal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
+Basic programming C / C ++, Java, Python <br>
+SQL, Excel, PostgreSQL database <br>
+Management <br>
+Testing QA Manual <br>
+Teamwork <br>
+Leadership <br>
+Analytical Thinking <br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**GitProfile** 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BiancaDinut/task/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[https://github.com/BiancaDinut](https://github.com/BiancaDinut):grinning:<br>
+![img](/img.png)
